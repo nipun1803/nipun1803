@@ -58,8 +58,8 @@
 
 
 <a href="https://github.com/nipun1803/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ChaitanyaSai-Meka&theme=bear&show_icons=true&hide_border=true&count_private=true" width="50%"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChaitanyaSai-Meka&theme=bear&hide_border=true" width="45%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Nipun&theme=bear&show_icons=true&hide_border=true&count_private=true" width="50%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nipun&theme=bear&hide_border=true" width="45%"/>
 </a>
 <br><br>
 <!-- Progress Graph -->
