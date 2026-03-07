@@ -1,6 +1,6 @@
 # Hi, I'm Nipun Patlori 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&duration=3000&pause=500&color=00D9FF¢er=true&vCenter=true&width=600&lines=CSE-AI+%2724+Undergrad;MERN+Stack+Developer;Open+Source+Enthusiast;Problem+Solver+%26+Innovator;Building+the+Future+with+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=600&lines=CSE-AI+%2724+Undergrad;MERN+Stack+Developer;Open+Source+Enthusiast;Problem+Solver+%26+Innovator;Building+the+Future+with+AI)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nipun1803&label=Profile%20views&color=0e75b6&style=flat" alt="nipun1803" />
@@ -96,9 +96,16 @@ Current Focus:
 
 ## 📊 GitHub Statistics
 
+## ⚡ GitHub Metrics
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nipun1803&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="Nipun's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nipun1803&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="Nipun's GitHub Streak" width="48%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nipun1803&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nipun1803&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nipun1803&theme=github_dark"/>
+
 </div>
 
 <div align="center">
@@ -115,11 +122,19 @@ Current Focus:
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nipun1803/nipun1803/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nipun1803/nipun1803/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nipun1803/nipun1803/output/github-contribution-grid-snake.svg">
-  </picture>
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nipun1803/nipun1803/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nipun1803/nipun1803/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nipun1803/nipun1803/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+
+## 📈 Contribution Heatmap
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/00D9FF/nipun1803" />
+
 </div>
 
 ## 💭 Random Dev Quote
